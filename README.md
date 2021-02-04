@@ -5,5 +5,7 @@ In this paper, we propose a secure data sharing scheme for dynamic members. Firs
 scheme can achieve fine efficiency, which means previous users need not to update their private keys for the situation either a new user joins in the group or a user is
 revoked from the group.
 
-##REFERENCE:
+---
+
+### REFERENCE:
 Zhongma Zhu and Rui Jiang, “A Secure Anti-Collusion Data Sharing Scheme for Dynamic Groups in the Cloud”, IEEE TRANSACTIONS ON PARALLEL AND DISTRIBUTED SYSTEMS, VOL. 27, NO. 1, JANUARY 2016.
